@@ -3,46 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/drawable/border.xml" value="0.157" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/drawable/box.xml" value="0.1745" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/drawable/ic_wish_list.xml" value="0.157" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/drawable/shape.xml" value="0.157" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_address.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_beverages_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_cart.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_category.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_category_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_combo.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_continue_shopping.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_coupons.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_dairy_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_first_page.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_foodgrain_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_fruit_add.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_fruit_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_grid.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_home_page.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_list_item.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_login_page.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_my_notifications.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_my_orders.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.264" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_oilmasala_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_order_details.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_snacks_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_track_order.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_vegetable_list.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/activity_wishlist.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/fragment_home_grid.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/fragment_item_grid.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/grid_item.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/layout/header_layout.xml" value="0.22826086956521738" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/menu/bottom_nav.xml" value="0.25" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/menu/nav_menu.xml" value="0.25" />
-        <entry key="..\:/Project/Big-Bucket/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_category_list.xml" value="0.1" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_fruit_add.xml" value="0.1" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_fruit_list.xml" value="0.1" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_grid.xml" value="0.12158054711246201" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_grid_item.xml" value="0.12158054711246201" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_home_page.xml" value="0.176" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.12158054711246201" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/activity_sign_uppage.xml" value="0.12158054711246201" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_category.xml" value="0.176" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_combo.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_coupon.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_home_grid.xml" value="0.1" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_notification.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_order.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_orderdetail.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_track_order.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/fragment_wish_list.xml" value="0.25" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/layout/list_item.xml" value="0.12158054711246201" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/menu/bottom_nav.xml" value="0.15" />
+        <entry key="..\:/Android/BigBucket/app/src/main/res/menu/nav_menu.xml" value="0.15" />
       </map>
     </option>
   </component>

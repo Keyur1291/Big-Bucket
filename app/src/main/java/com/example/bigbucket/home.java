@@ -47,7 +47,7 @@ public class home extends AppCompatActivity implements NavigationView.OnNavigati
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if (position == 0) {
-                    startActivity(new Intent(home.this, fruit_List.class));
+                    startActivity(new Intent(home.this, Fruit_List.class));
                 } else if (position == 1) {
                     startActivity(new Intent(home.this, vegetable_list.class));
                 } else if (position == 2) {

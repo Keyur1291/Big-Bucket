@@ -33,10 +33,10 @@ public class myAdapter extends RecyclerView.Adapter<myAdapter.myViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull myAdapter.myViewHolder holder, int position) {
 
-        list_items user_list = arrayList.get(position);
+        list_items list_items = arrayList.get(position);
 
-        holder.name.setText(user_list.name);
-        holder.price.setText(user_list.price);
+        holder.name.setText(list_items.name);
+        holder.price.setText(list_items.price);
 
     }
 

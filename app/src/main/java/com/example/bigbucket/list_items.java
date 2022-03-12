@@ -24,7 +24,7 @@ public class list_items {
         return price;
     }
 
-    public void setPrice(String enrollment) {
+    public void setPrice(String price) {
         this.price = price;
     }
 

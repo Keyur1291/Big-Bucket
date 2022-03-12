@@ -31,7 +31,7 @@
             android:id="@+id/pricev"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Rs.70"
+            android:text="70"
             android:textSize="10dp">
         </TextView>
 
